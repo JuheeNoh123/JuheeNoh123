@@ -66,7 +66,7 @@ REST API • WebSocket
 
 ---
 
-### 🚀 Main Project
+## 🚀 Main Project
 
 **🎤 TALKI – AI 기반 발표 분석 시스템**
 > 실시간 영상 및 음성 데이터를 분석하여  \
@@ -83,7 +83,7 @@ REST API • WebSocket
 
 ---
 
-### 📂 Projects
+## 📂 Projects
 
 **🏃 MovingCash**
 > AI 기반 러닝 경로 추천 서비스  
