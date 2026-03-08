@@ -64,7 +64,7 @@ Spring Boot • FastAPI • Redis • WebSocket • AWS S3 • MediaPipe • Whi
 
 # 📂 Projects
 
-## 🏃 MovingCash
+### 🏃 MovingCash
 
 AI 기반 러닝 경로 추천 서비스
 
@@ -76,9 +76,8 @@ AI 기반 러닝 경로 추천 서비스
 기술 스택  
 Spring Boot • WebSocket • Docker • GitHub Actions
 
----
 
-## 🌱 EcoStory
+### 🌱 EcoStory
 
 지역 환경 콘텐츠 제공 서비스
 
@@ -90,9 +89,8 @@ Spring Boot • WebSocket • Docker • GitHub Actions
 기술 스택  
 Node.js • MySQL • REST API • AWS EC2
 
----
 
-## 🎓 SKUSKU Renewal
+### 🎓 SKUSKU Renewal
 
 학교 동아리 홈페이지 사이버 캠퍼스 시스템
 
@@ -104,9 +102,8 @@ Node.js • MySQL • REST API • AWS EC2
 기술 스택  
 Spring Boot • MySQL • AWS S3
 
----
 
-## 🥁 DrumStory
+### 🥁 DrumStory
 
 드럼 연습실 예약 관리 시스템
 
@@ -118,9 +115,8 @@ Spring Boot • MySQL • AWS S3
 기술 스택  
 Spring Boot • Spring Security • MySQL • Redis
 
----
 
-## 🎬 CGV Clone Backend
+### 🎬 CGV Clone Backend
 
 CGV 영화 예매 시스템 클론코딩
 
@@ -132,9 +128,8 @@ CGV 영화 예매 시스템 클론코딩
 기술 스택  
 Spring Boot • MySQL • Redis
 
----
 
-## 🧹 CleanTurn
+### 🧹 CleanTurn
 
 청소 로테이션 관리 서비스
 
