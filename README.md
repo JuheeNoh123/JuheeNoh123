@@ -93,8 +93,7 @@ Spring Boot • FastAPI • Redis • WebSocket • AWS S3 • MediaPipe • Whi
 - WebSocket 기반 실시간 데이터 처리
 - 러닝 기록 및 챌린지 기능
 
-Tech  
-Spring Boot • WebSocket • Docker
+**Tech** : Spring Boot • WebSocket • Docker
 
 **🌱 EcoStory**
 > 지역 환경 콘텐츠 제공 서비스  
@@ -102,8 +101,7 @@ Spring Boot • WebSocket • Docker
 - 환경 콘텐츠 게시판
 - OpenAI API 기반 데이터 처리
 
-Tech  
-Node.js • MySQL • REST API
+**Tech** : Node.js • MySQL • REST API
 
 **🎓 SKUSKU Renewal**
 > 동아리 홈페이지 사이버 캠퍼스 시스템  
@@ -113,26 +111,22 @@ Node.js • MySQL • REST API
 - 주관식 / 객관식 / 서술형 채점
 - AI 기반 답안 평가
 
-Tech  
-Spring Boot • MySQL • AWS S3
+**Tech** : Spring Boot • MySQL • AWS S3
 
 **🥁 DrumStory**
 > 드럼 연습실 예약 관리 시스템  
 
-Tech  
-Spring Boot • Spring Security • MySQL
+**Tech** : Spring Boot • Spring Security • MySQL
 
 **🎬 CGV Clone Backend**
 > 영화 예매 시스템 클론코딩  
 
-Tech  
-Spring Boot • MySQL • Redis
+**Tech** : Spring Boot • MySQL • Redis
 
 **🧹 CleanTurn**
 > 청소 로테이션 관리 서비스  
 
-Tech  
-Node.js • MySQL • Redis • JWT
+**Tech** : Node.js • MySQL • Redis • JWT
 
 ---
 
