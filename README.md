@@ -84,7 +84,7 @@ REST API • WebSocket
 ---
 
 ### 📂 Projects
-<hr>
+
 **🏃 MovingCash**
 > AI 기반 러닝 경로 추천 서비스  
 - 위치 기반 러닝 경로 추천
