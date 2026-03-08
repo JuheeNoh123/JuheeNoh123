@@ -72,8 +72,10 @@ REST API • WebSocket
 **🎤 TALKI – AI 기반 발표 분석 시스템**
 > 실시간 영상 및 음성 데이터를 분석하여  \
 발표자의 발표 습관을 분석하고 피드백을 제공하는 AI 시스템
+
 기술 스택  
 Spring Boot • FastAPI • Redis • WebSocket • AWS S3 • MediaPipe • Whisper
+
 주요 기능
 - 발표 영상 업로드 및 분석
 - 시선 추적 및 자세 분석
